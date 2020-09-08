@@ -1,6 +1,8 @@
 # Verifiable Credentials (VCs) for Factom
 
-Implemented in Haskell.
+Verifiable Credentials (VCs) for Factom implemented in Haskell.
+
+Specification available at https://www.w3.org/TR/vc-data-model/
 
 ## Contributions
 
