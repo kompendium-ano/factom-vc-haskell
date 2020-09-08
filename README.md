@@ -1,4 +1,4 @@
-# Verifiable Credentials for Factom 
+# Verifiable Credentials (VCs) for Factom
 
 Implemented in Haskell.
 
