@@ -1,4 +1,5 @@
 # Verifiable Credentials (VCs) for Factom
+![build](https://github.com/kompendium-ano/factom-vc-haskell/workflows/build/badge.svg)
 
 Verifiable Credentials (VCs) for Factom implemented in Haskell.
 
