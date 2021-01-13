@@ -1,9 +1,11 @@
-# Factom VCs implemented in Haskell
+# Verifiable Credentials (VCs) for Factom
+![build](https://github.com/kompendium-ano/factom-vc-haskell/workflows/build/badge.svg)
 
 Work in progress. Simplistic implementation of Verifiable Claims (VCs) on top of Factom protocol according to W3C standard.
 
-- factom-vc-client - library provides functionality for VCs based on DiD library
+- factom-vc-client - library provides functionality for VCs based on Haskell DiD library
 
+Specification available at https://www.w3.org/TR/vc-data-model/
 Implementation guideline available at https://github.com/w3c/vc-imp-guide
 
 
